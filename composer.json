@@ -1,11 +1,15 @@
 {
-	"name": "zhuravljov/yii2-debug",
-	"description": "Yii debug toolbar",
+	"name": "yfix/yii2-debug-backported",
+	"description": "Yii1 debug toolbar backported from Yii2",
 	"keywords": ["yii", "extension", "debug"],
-	"homepage": "https://github.com/zhuravljov/yii2-debug",
+	"homepage": "https://github.com/yfix/yii2-debug-backported",
 	"type": "yii-extension",
 	"license": "BSD-3-Clause",
 	"authors": [
+		{
+			"name": "Yfix group",
+			"email": "yfix.dev@gmail.com"
+		},
 		{
 			"name": "Roman Zhuravlev",
 			"email": "zhuravljov@gmail.com"
